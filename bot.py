@@ -1,4 +1,4 @@
-BotToken = "NjM4NjU0MzU5NDIwNDAzNzEy.Xcbs9Q.rJDjDHnkPdUWxPJCoJn61BzgnK0" #You get that from the discord developer portal
+BotToken = "5f7Y18pnqcFhOY_Rkl8W-wrLdSAUG6bm" #You get that from the discord developer portal
 userid = "548486527114674176" #You own UserID
 prefix = "m!" #Prefix for jacc
 
