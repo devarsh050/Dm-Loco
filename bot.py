@@ -271,7 +271,7 @@ async def stop(ctx):
             "**An unknown error occurred!**"
         )
 
-loop = asy
+
 
 
 
