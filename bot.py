@@ -1,6 +1,6 @@
-BotToken = "5f7Y18pnqcFhOY_Rkl8W-wrLdSAUG6bm" #You get that from the discord developer portal
+BotToken = "NjM4NjU0MzU5NDIwNDAzNzEy.XcfUvQ.M9U0eeMSLhQKG4ovLaXJoSdMCjo" #You get that from the discord developer portal
 userid = "548486527114674176" #You own UserID
-prefix = "m!" #Prefix for jacc
+prefix = "+" #Prefix for jacc
 
 import random
 import requests
