@@ -276,7 +276,7 @@ while True:
     try:
         loop.run_until_complete(bot.start(BotToken, reconnect=True))
     except Exception as e:
-        time.sleep(0.05)
+        time.sleep(1)
         print("Event loop error:", e)
 
 
